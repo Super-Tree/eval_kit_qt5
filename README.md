@@ -1,10 +1,16 @@
 README
 ======
 2018-3-29 hxd
+
 将评估算法封装在了基于qt5的UI程序中,靠catkin_make组织的工程,依赖问题见CmakeLists.txt
+
 使用方法:
-点击gt_file 按钮选择 gt文件,点击det_file按钮选择存储检测结果的文件夹,设置好IOU,metric,debug后点击Start即可
+
+点击gt_file 按钮选择 gt文件,点击det_file按钮选择存储检测结果的文件夹,
+设置好IOU,metric,debug后点击Start即可
+
 ![run_pic](http://192.168.1.20/XindongHe/algorithm_evaluation/blob/master/data/qt5_ui.png)
+
 2018-3-16 hxd
 该程序用来评估检测结果,产生recall和precision
 ****
