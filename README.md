@@ -9,7 +9,7 @@ README
 点击gt_file 按钮选择 gt文件,点击det_file按钮选择存储检测结果的文件夹,
 设置好IOU,metric,debug后点击Start即可
 
-![run_pic](http://192.168.1.20/XindongHe/algorithm_evaluation/blob/master/data/qt5_ui.png)
+![run_pic](https://github.com/Super-Tree/eval_kit_qt5/blob/master/data/qt5_ui.png)
 
 2018-3-16 hxd
 
